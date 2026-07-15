@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1783780392 source:c:\users\lenovo\documents\cybershield\projet examen\cyber_shield\incident.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"incident.h"
+
+1783776018 c:\users\lenovo\documents\cybershield\projet examen\cyber_shield\incident.h
+
+1783777062 source:c:\users\lenovo\documents\cybershield\projet examen\cyber_shield\main.c
+	<stdio.h>
+	<stdlib.h>
+	"incident.h"
+
